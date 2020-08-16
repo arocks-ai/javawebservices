@@ -1,0 +1,17 @@
+package iplocationfinder;
+
+public class IPLocationFinder {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		if (args.length < 1) {			
+			System.out.println("Minimum one argument is needed");
+			return;
+		}
+		
+		
+		
+
+	}
+
+}
